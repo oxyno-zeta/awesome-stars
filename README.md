@@ -424,8 +424,8 @@
 
 ## JavaScript 
 
-- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [apollosolutions/federation-subscription-tools](https://github.com/apollosolutions/federation-subscription-tools) - A set of demonstration utilities to facilitate GraphQL subscription usage alongside a federated data graph
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -507,7 +507,7 @@
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
 - [mohsen1/yawn-yaml](https://github.com/mohsen1/yawn-yaml) - YAML parser that preserves comments and styling
 - [danielcaldas/react-d3-graph](https://github.com/danielcaldas/react-d3-graph) - Interactive and configurable graphs with react and d3 effortlessly
@@ -522,7 +522,7 @@
 - [javivelasco/react-css-themr](https://github.com/javivelasco/react-css-themr) - Easy theming and composition for CSS Modules.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [heysailor/relay-mongodb-connection](https://github.com/heysailor/relay-mongodb-connection) - Create Relay connections from MongoDB cursors
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing. Keep your app fast & reliable. Loved by developers & SREs.
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [devknoll/graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
