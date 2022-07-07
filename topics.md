@@ -1168,7 +1168,7 @@
 
 ## ipfs 
 
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 
 ## java 
 
@@ -1744,7 +1744,6 @@
 - [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [heysailor/relay-mongodb-connection](https://github.com/heysailor/relay-mongodb-connection) - Create Relay connections from MongoDB cursors
 - [jaredfolkins/badactor](https://github.com/jaredfolkins/badactor) - BadActor.org An in-memory application driven jailer written in Go
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [devknoll/graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [oxyno-zeta/react-redux-simple-autoconnect](https://github.com/oxyno-zeta/react-redux-simple-autoconnect) - React Redux Simple Autoconnect
@@ -2070,6 +2069,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## shell 
