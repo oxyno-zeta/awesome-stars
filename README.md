@@ -427,6 +427,7 @@
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
+- [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [apollosolutions/federation-subscription-tools](https://github.com/apollosolutions/federation-subscription-tools) - A set of demonstration utilities to facilitate GraphQL subscription usage alongside a federated data graph
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -778,7 +779,6 @@
 ## TypeScript 
 
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
-- [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [IBM/graphql-query-generator](https://github.com/IBM/graphql-query-generator) - Randomly generates GraphQL queries from a GraphQL schema
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
