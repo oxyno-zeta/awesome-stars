@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
