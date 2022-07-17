@@ -69,7 +69,6 @@
 
 ## CSS 
 
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 
 ## Clojure 
@@ -588,6 +587,7 @@
 
 ## Lua 
 
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 
 ## Makefile 
