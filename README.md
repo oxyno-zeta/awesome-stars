@@ -391,7 +391,7 @@
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [jaredfolkins/badactor](https://github.com/jaredfolkins/badactor) - BadActor.org An in-memory application driven jailer written in Go
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
@@ -525,7 +525,7 @@
 - [javivelasco/react-css-themr](https://github.com/javivelasco/react-css-themr) - Easy theming and composition for CSS Modules.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [heysailor/relay-mongodb-connection](https://github.com/heysailor/relay-mongodb-connection) - Create Relay connections from MongoDB cursors
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
 - [devknoll/graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -587,6 +587,7 @@
 
 ## Lua 
 
+- [nokia/kong-oidc](https://github.com/nokia/kong-oidc) - OIDC plugin for Kong
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 
