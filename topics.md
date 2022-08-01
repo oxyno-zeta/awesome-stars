@@ -767,6 +767,7 @@
 
 ## go 
 
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -871,6 +872,7 @@
 
 ## golang 
 
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
