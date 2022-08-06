@@ -1626,6 +1626,7 @@
 
 ## others 
 
+- [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Insomnia.
 - [Freshman-tech/file-upload](https://github.com/Freshman-tech/file-upload) - 
 - [nokia/kong-oidc](https://github.com/nokia/kong-oidc) - OIDC plugin for Kong
 - [delta-io/delta](https://github.com/delta-io/delta) - This connector allows Apache Spark™ to read from and write to Delta Lake.
