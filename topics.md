@@ -875,7 +875,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
-- [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
@@ -1419,7 +1419,7 @@
 
 ## linux 
 
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
+- [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Komorebi-Fork/komorebi](https://github.com/Komorebi-Fork/komorebi) - A beautiful and customizable wallpaper manager for Linux
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
