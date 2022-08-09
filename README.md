@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [hoto/jenkins-credentials-decryptor](https://github.com/hoto/jenkins-credentials-decryptor) - Command line tool for dumping Jenkins credentials.
 - [prosimcorp/reforma](https://github.com/prosimcorp/reforma) - Kubernetes operator to patch resources with information from other resources
 - [Freshman-tech/file-upload](https://github.com/Freshman-tech/file-upload) - 
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
@@ -796,7 +797,7 @@
 
 ## TypeScript 
 
-- [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Insomnia.
+- [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
