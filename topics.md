@@ -1453,7 +1453,6 @@
 
 ## lua 
 
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 
 ## machine-learning 
