@@ -110,7 +110,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing and metrics using ClickHouse and OpenTelemetry
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Distributed tracing and metrics using ClickHouse and OpenTelemetry
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
