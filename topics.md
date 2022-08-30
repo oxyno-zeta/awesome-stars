@@ -896,7 +896,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Distributed tracing and metrics using ClickHouse and OpenTelemetry
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool that supports distributed tracing, metrics, and logs.
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [ravilushqa/otelgqlgen](https://github.com/ravilushqa/otelgqlgen) - OpenTelemetry instrumentation for 99designs/gqlgen
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -1515,7 +1515,7 @@
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Distributed tracing and metrics using ClickHouse and OpenTelemetry
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool that supports distributed tracing, metrics, and logs.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
 - [michaelklishin/rabbit-hole](https://github.com/michaelklishin/rabbit-hole) - RabbitMQ HTTP API client in Go
@@ -2118,7 +2118,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless public cloud services
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
