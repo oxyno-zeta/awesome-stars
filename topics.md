@@ -527,7 +527,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity.
@@ -1328,7 +1328,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
 - [kubemq-io/kubemq-community](https://github.com/kubemq-io/kubemq-community) - KubeMQ is a Kubernetes native message queue broker
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -1459,6 +1459,7 @@
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
@@ -1478,7 +1479,7 @@
 
 ## lua 
 
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
 
 ## machine-learning 
 
@@ -1677,7 +1678,7 @@
 - [hoto/jenkins-credentials-decryptor](https://github.com/hoto/jenkins-credentials-decryptor) - Command line tool for dumping Jenkins credentials.
 - [Freshman-tech/file-upload](https://github.com/Freshman-tech/file-upload) - 
 - [nokia/kong-oidc](https://github.com/nokia/kong-oidc) - OIDC plugin for Kong
-- [delta-io/delta](https://github.com/delta-io/delta) - This connector allows Apache Spark™ to read from and write to Delta Lake.
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -2104,7 +2105,7 @@
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
