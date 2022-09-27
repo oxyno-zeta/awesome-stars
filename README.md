@@ -159,7 +159,7 @@
 - [michaelklishin/rabbit-hole](https://github.com/michaelklishin/rabbit-hole) - RabbitMQ HTTP API client in Go
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud provider
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro Services
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
@@ -450,6 +450,7 @@
 
 ## JavaScript 
 
+- [mattphillips/deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference. ❄️
 - [material-table-core/core](https://github.com/material-table-core/core) - Datatable for React based on material-ui's table with additional features. Support us at https://opencollective.com/material-table-core
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
