@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
