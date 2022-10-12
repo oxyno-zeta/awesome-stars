@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [procyon-projects/chrono](https://github.com/procyon-projects/chrono) - Chrono is a scheduler library that lets you run your task and code periodically
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
@@ -530,7 +531,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [pa-bru/graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [flexdinesh/react-redux-boilerplate](https://github.com/flexdinesh/react-redux-boilerplate) - A minimal React-Redux boilerplate with all the best practices
 - [aackerman/circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin) - Detect circular dependencies in modules compiled with Webpack
@@ -750,7 +751,7 @@
 
 ## Rust 
 
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Free and open source replacement to Loki, Elastic, Splunk
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Free and open source alternative to Loki, Elastic, Splunk
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
