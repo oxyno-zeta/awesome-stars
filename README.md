@@ -751,7 +751,7 @@
 
 ## Rust 
 
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Kubernetes native log storage and observability platform. Open source alternative to Splunk, DataDog.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Simple and efficient log storage and observability platform. Open source alternative to Splunk, DataDog.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
