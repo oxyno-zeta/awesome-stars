@@ -10,6 +10,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -213,6 +214,11 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-faker](https://github.com/IvanGoncharov/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+
+## artificial-intelligence 
+
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## automation 
 
@@ -1579,6 +1585,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [stefanprodan/mgob](https://github.com/stefanprodan/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 - [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 
 ## mongoose 
 
@@ -1681,6 +1688,7 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [ramhejazi/draxt](https://github.com/ramhejazi/draxt) - draxt.js – NodeList/jQuery-like package for File System (node.js)
 - [phellipeandrade/rbac](https://github.com/phellipeandrade/rbac) - Hierarchical Role-Based Access Control for Node.js
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
@@ -1856,7 +1864,6 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [mqttjs/async-mqtt](https://github.com/mqttjs/async-mqtt) - Promise wrapper over MQTT.js
-- [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [taion/graphql-type-json](https://github.com/taion/graphql-type-json) - JSON scalar type for GraphQL.js
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
