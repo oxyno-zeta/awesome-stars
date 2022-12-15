@@ -701,7 +701,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [truenas/core-build](https://github.com/truenas/core-build) - TrueNAS CORE/Enterprise Build System
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
@@ -800,7 +800,7 @@
 - [Real-Time-Kodi/PiBAN](https://github.com/Real-Time-Kodi/PiBAN) - A Standalone Raspberry-Pi Based Hard Drive Eraser
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
