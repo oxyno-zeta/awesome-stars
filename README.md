@@ -140,7 +140,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [pilagod/gorm-cursor-paginator](https://github.com/pilagod/gorm-cursor-paginator) - A paginator doing cursor-based pagination based on GORM
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Signing containers (and other artifacts) using Sigstore
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
 - [sergeymakinen/ipsec_exporter](https://github.com/sergeymakinen/ipsec_exporter) - Export strongswan/libreswan IPsec stats to Prometheus
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -718,6 +718,7 @@
 - [dwservice/agent](https://github.com/dwservice/agent) - DWService agent for Linux, Mac and Windows
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval) - Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -802,7 +803,6 @@
 - [Real-Time-Kodi/PiBAN](https://github.com/Real-Time-Kodi/PiBAN) - A Standalone Raspberry-Pi Based Hard Drive Eraser
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
@@ -850,7 +850,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro services gateway
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
