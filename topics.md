@@ -826,6 +826,7 @@
 
 ## go 
 
+- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -942,6 +943,7 @@
 
 ## golang 
 
+- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [pierre-emmanuelJ/open-alldebrid](https://github.com/pierre-emmanuelJ/open-alldebrid) - Alldebrid OpenAPI based Golang client wrapper
@@ -1369,6 +1371,7 @@
 
 ## json 
 
+- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
