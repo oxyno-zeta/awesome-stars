@@ -146,6 +146,7 @@
 - [sql](#sql)
 - [statistics](#statistics)
 - [storybook](#storybook)
+- [svelte](#svelte)
 - [symfony](#symfony)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -2298,6 +2299,11 @@
 ## storybook 
 
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+
+## svelte 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 
 ## symfony 
 
