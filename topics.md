@@ -157,6 +157,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -2410,6 +2411,14 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+
+## vuejs 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## web 
 
