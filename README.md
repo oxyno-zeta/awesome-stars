@@ -399,7 +399,7 @@
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images!
 - [XiaoMi/naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [pusher/k8s-spot-rescheduler](https://github.com/pusher/k8s-spot-rescheduler) - Tries to move K8s Pods from on-demand to spot instances
