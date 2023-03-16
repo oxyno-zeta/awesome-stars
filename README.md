@@ -92,6 +92,7 @@
 
 ## Go 
 
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [philippgille/gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - database dump with one command and configuration.
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
@@ -260,7 +261,7 @@
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [kyoh86/richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [beevik/etree](https://github.com/beevik/etree) - parse and generate XML easily in go
@@ -702,6 +703,7 @@
 
 ## Python 
 
+- [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
