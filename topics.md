@@ -170,6 +170,7 @@
 
 ## ai 
 
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## algorithm 
@@ -218,6 +219,7 @@
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -1730,7 +1732,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-- [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
+- [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - keycloak-nodejs-admin-client repo is moved.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -2178,7 +2180,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [kubemq-io/kubemq-community](https://github.com/kubemq-io/kubemq-community) - KubeMQ is a Kubernetes native message queue broker
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
+- [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - keycloak-nodejs-admin-client repo is moved.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -2283,7 +2285,7 @@
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
