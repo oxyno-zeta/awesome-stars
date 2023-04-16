@@ -40,7 +40,6 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
-- [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -67,6 +66,7 @@
 - [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -547,10 +547,6 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
-## data 
-
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
-
 ## data-analysis 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -596,7 +592,6 @@
 - [kubedb/cli](https://github.com/kubedb/cli) - `kubectl` plugin for KubeDB
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 
 ## deno 
 
@@ -815,6 +810,10 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+
+## gh-extension 
+
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 
 ## git 
 
