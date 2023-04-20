@@ -88,6 +88,7 @@
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [linuxserver-archive/docker-jackett-armhf](https://github.com/linuxserver-archive/docker-jackett-armhf) - 
 
 ## Go 
@@ -536,7 +537,6 @@
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [mqttjs/async-mqtt](https://github.com/mqttjs/async-mqtt) - Promise wrapper over MQTT.js
 - [ramhejazi/draxt](https://github.com/ramhejazi/draxt) - draxt.js – NodeList/jQuery-like package for File System (node.js)
@@ -927,7 +927,7 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [cdimascio/generator-express-no-stress-typescript](https://github.com/cdimascio/generator-express-no-stress-typescript) - 🚄 A Yeoman generator for Express.js based 12-factor apps and apis using Typescript
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
