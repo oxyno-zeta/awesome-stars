@@ -242,8 +242,8 @@
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
-- [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
-- [IvanGoncharov/graphql-faker](https://github.com/IvanGoncharov/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+- [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
+- [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
 
 ## artificial-intelligence 
@@ -271,6 +271,7 @@
 
 ## awesome 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -303,6 +304,7 @@
 
 ## awesome-list 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
@@ -430,7 +432,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## chrome-extension 
@@ -624,6 +626,7 @@
 
 ## devops 
 
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
@@ -759,6 +762,7 @@
 
 ## elixir 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ## emacs 
@@ -1174,15 +1178,15 @@
 - [graphql-compose/graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose) - Mongoose model converter to GraphQL types with resolvers for graphql-compose https://github.com/nodkz/graphql-compose
 - [pa-bru/graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
-- [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
+- [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-- [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
+- [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [AEB-labs/graphql-weaver](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [yarax/swagger-to-graphql](https://github.com/yarax/swagger-to-graphql) - Swagger to GraphQL API adapter
-- [IvanGoncharov/graphql-faker](https://github.com/IvanGoncharov/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+- [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 
@@ -1202,6 +1206,7 @@
 
 ## hacktoberfest 
 
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -1828,6 +1833,7 @@
 
 ## open-source 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -1847,6 +1853,7 @@
 
 ## others 
 
+- [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 - [Shopify/go-storage](https://github.com/Shopify/go-storage) - Go package for abstracting local, in-memory, and remote (Google Cloud Storage/S3) filesystems
@@ -2098,6 +2105,7 @@
 
 ## python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -2289,6 +2297,7 @@
 
 ## security 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
@@ -2359,7 +2368,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## shell 
 
