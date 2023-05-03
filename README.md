@@ -89,7 +89,7 @@
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [linuxserver-archive/docker-jackett-armhf](https://github.com/linuxserver-archive/docker-jackett-armhf) - 
 
 ## Elixir 
@@ -737,7 +737,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [zalando-incubator/zelt](https://github.com/zalando-incubator/zelt) - A command-line tool for orchestrating the deployment of Locust in Kubernetes.
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a Cloud Security Configuration CLI for AWS, GCP, Azure, and SaaS Security Posture Management with support for 100s of services and evaluations to harden your entire cloud footprint.
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Cloud Asset Management (CAM), Cloud Security Posture Management (CSPM), SaaS Security Posture Management (SSPM), and External Attack Surfac
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [dwservice/agent](https://github.com/dwservice/agent) - DWService agent for Linux, Mac and Windows
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
@@ -953,7 +953,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
