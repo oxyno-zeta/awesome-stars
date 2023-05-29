@@ -182,7 +182,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## algorithm 
@@ -234,7 +233,7 @@
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -1912,6 +1911,7 @@
 
 ## others 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
@@ -2453,7 +2453,7 @@
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
