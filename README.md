@@ -689,7 +689,7 @@
 - [mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard) - Ergonomic split mechanical keyboard
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa) - A curated list of OPA related tools, frameworks and articles
+- [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [awslabs/aws-security-assessment-solution](https://github.com/awslabs/aws-security-assessment-solution) - An AWS tool to help you create a point in time assessment of your AWS account using Prowler and Scout as well as optional AWS developed ransomware checks.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [tdsacilowski/vault-agent-guide](https://github.com/tdsacilowski/vault-agent-guide) - 
