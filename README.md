@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [sjlleo/nexttrace-core](https://github.com/sjlleo/nexttrace-core) - An open source visual route tracking CLI tool
@@ -193,7 +194,7 @@
 - [ruoshan/autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
 - [innogames/slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
