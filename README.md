@@ -101,7 +101,7 @@
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
-- [sjlleo/nexttrace-core](https://github.com/sjlleo/nexttrace-core) - An open source visual route tracking CLI tool
+- [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core) - An open source visual route tracking CLI tool
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
