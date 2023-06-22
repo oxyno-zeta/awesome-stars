@@ -24,6 +24,7 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -158,7 +159,6 @@
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
@@ -666,6 +666,10 @@
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
 ## Makefile 
 
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
@@ -890,6 +894,7 @@
 
 ## TypeScript 
 
+- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative  ❤️
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
