@@ -1765,6 +1765,7 @@
 
 ## monitoring 
 
+- [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
