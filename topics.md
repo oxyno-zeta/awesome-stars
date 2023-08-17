@@ -180,7 +180,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -264,6 +264,7 @@
 
 ## automation 
 
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source automation tool ✨ Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -438,7 +439,7 @@
 ## chatgpt 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [innogames/slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
 
@@ -592,6 +593,7 @@
 
 ## data-science 
 
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
@@ -918,6 +920,7 @@
 
 ## go 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gobeam/stringy](https://github.com/gobeam/stringy) - Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
@@ -1049,6 +1052,7 @@
 
 ## golang 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gobeam/stringy](https://github.com/gobeam/stringy) - Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -1272,6 +1276,7 @@
 
 ## hacktoberfest 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
