@@ -1311,6 +1311,7 @@
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
@@ -1901,7 +1902,7 @@
 ## nodejs 
 
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP CRM (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -2308,7 +2309,7 @@
 
 ## react 
 
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP CRM (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce ⚡️ You can star to support our work!
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
@@ -2380,7 +2381,7 @@
 ## reactjs 
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP CRM (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce ⚡️ You can star to support our work!
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
