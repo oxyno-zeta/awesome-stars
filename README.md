@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
@@ -512,7 +513,7 @@
 ## JavaScript 
 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source ERP CRM (Invoice / Inventory / Accounting / HR / CRM )  Based on Node js / React js  https://www.idurarapp.com
+- [idurar/erp-crm](https://github.com/idurar/erp-crm) - IDURAR OpenSource ERP CRM
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -554,7 +555,7 @@
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [phantombuster/nickjs](https://github.com/phantombuster/nickjs) - Web scraping library made by the Phantombuster team. Modern, simple & works on all websites. (Deprecated)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [react-workspaces/react-workspaces-playground](https://github.com/react-workspaces/react-workspaces-playground) - ⚛️ 🐈  Zero Config Create-React-App Monorepos with Yarn Workspaces, Lerna and React Storybook.
 - [0wczar/airframe-react](https://github.com/0wczar/airframe-react) - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
 - [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) - Simple Kubernetes real-time dashboard and management.
@@ -613,7 +614,7 @@
 - [javivelasco/react-css-themr](https://github.com/javivelasco/react-css-themr) - Easy theming and composition for CSS Modules.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [heysailor/relay-mongodb-connection](https://github.com/heysailor/relay-mongodb-connection) - Create Relay connections from MongoDB cursors
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [devknoll/graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
