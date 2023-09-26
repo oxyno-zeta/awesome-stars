@@ -1312,6 +1312,7 @@
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. ⭐️ You can star to support our work!
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
@@ -1324,6 +1325,7 @@
 - [material-table-core/core](https://github.com/material-table-core/core) - Datatable for React based on material-ui's table with additional features. Support us at https://opencollective.com/material-table-core
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
@@ -1374,6 +1376,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval) - Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -2482,6 +2485,7 @@
 - [gabotechs/graphqxl](https://github.com/gabotechs/graphqxl) - GraphQXL is a new language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas. This repository
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
