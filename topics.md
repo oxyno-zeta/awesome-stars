@@ -196,6 +196,7 @@
 
 ## analytics 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
@@ -473,6 +474,7 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1451,6 +1453,7 @@
 
 ## http 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1492,6 +1495,7 @@
 
 ## javascript 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
@@ -2302,6 +2306,7 @@
 
 ## python 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -2357,6 +2362,7 @@
 
 ## react 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. ⭐️ You can star to support our work!
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
@@ -2722,6 +2728,7 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
@@ -2745,6 +2752,7 @@
 
 ## typescript 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. ⭐️ You can star to support our work!
