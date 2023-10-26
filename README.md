@@ -962,7 +962,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [IBM/graphql-query-generator](https://github.com/IBM/graphql-query-generator) - Randomly generates GraphQL queries from a GraphQL schema
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
-- [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
+- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Fully functional GraphQL gateway framework
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
