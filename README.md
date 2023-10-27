@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [anchore/binny](https://github.com/anchore/binny) - Manage a directory of binaries without a package manager
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
@@ -110,7 +111,6 @@
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
-- [hakaioffsec/navgix](https://github.com/hakaioffsec/navgix) - navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 - [gobeam/stringy](https://github.com/gobeam/stringy) - Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
@@ -523,7 +523,7 @@
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Node Js React MERN
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Node Js React AntD MERN
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -759,6 +759,7 @@
 
 ## Python 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -842,7 +843,7 @@
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
-- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language
+- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -927,7 +928,6 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
