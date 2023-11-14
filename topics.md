@@ -811,7 +811,6 @@
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [dollarshaveclub/furan](https://github.com/dollarshaveclub/furan) - Scale out Docker builds
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
@@ -1099,7 +1098,6 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [dollarshaveclub/furan](https://github.com/dollarshaveclub/furan) - Scale out Docker builds
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## golang 
@@ -1262,7 +1260,6 @@
 - [heketi/heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [dollarshaveclub/furan](https://github.com/dollarshaveclub/furan) - Scale out Docker builds
 - [Chabane/generator-mitosis](https://github.com/Chabane/generator-mitosis) - A micro-service infrastructure generator based on Yeoman/Chatbot, Kubernetes/Docker Swarm, Traefik, Ansible, Jenkins, Spark, Hadoop, Kafka, etc.
 
 ## good-first-issue 
@@ -2414,6 +2411,7 @@
 
 ## react 
 
+- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
