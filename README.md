@@ -424,7 +424,6 @@
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [elek/flekszible](https://github.com/elek/flekszible) - Kubernetes resource/manifest file preprocessor, generator and manager.
-- [dollarshaveclub/metahelm](https://github.com/dollarshaveclub/metahelm) - Install dependency graphs of Kubernetes Helm Charts
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
