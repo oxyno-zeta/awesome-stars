@@ -90,12 +90,12 @@
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 - [linuxserver-archive/docker-jackett-armhf](https://github.com/linuxserver-archive/docker-jackett-armhf) - 
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
 
 ## Go 
 
@@ -175,7 +175,7 @@
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -695,7 +695,6 @@
 ## Makefile 
 
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [valencenet/valence-manifests](https://github.com/valencenet/valence-manifests) - Rightsize and Autoscale Containers Intelligently for Performance and Cost Management in Kubernetes: A SLO Autoscaler
 
 ## Markdown 
@@ -714,6 +713,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard) - Ergonomic split mechanical keyboard
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
