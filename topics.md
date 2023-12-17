@@ -1283,6 +1283,7 @@
 
 ## graphql 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [gabotechs/graphqxl](https://github.com/gabotechs/graphqxl) - GraphQXL is a new language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas. This repository
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
@@ -1340,6 +1341,7 @@
 
 ## hacktoberfest 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -1536,6 +1538,7 @@
 
 ## javascript 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1963,6 +1966,7 @@
 
 ## nextjs 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -2439,6 +2443,7 @@
 
 ## react 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
@@ -2568,6 +2573,7 @@
 
 ## rust 
 
+- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -2851,6 +2857,7 @@
 
 ## typescript 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
