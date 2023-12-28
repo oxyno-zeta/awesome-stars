@@ -856,7 +856,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
+- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
