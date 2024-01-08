@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
 - [stv0g/gose](https://github.com/stv0g/gose) - A tera-scale file uploader
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [solutionroute/knockr](https://github.com/solutionroute/knockr) - A port-knocking utility implemented in Go.
