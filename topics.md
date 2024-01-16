@@ -2200,7 +2200,7 @@
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [cirello-io/pglock](https://github.com/cirello-io/pglock) - PostgreSQL Lock Client for Go
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [lmolas/kubectl-view-cert](https://github.com/lmolas/kubectl-view-cert) - kubectl krew plugin to view certificate information stored in secrets
 - [danielkov/gin-helmet](https://github.com/danielkov/gin-helmet) - HTTP Security middleware for GoLang library Gin, inspired by Helmet for Express
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
