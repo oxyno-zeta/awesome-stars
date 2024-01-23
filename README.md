@@ -765,6 +765,7 @@
 
 ## Python 
 
+- [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
