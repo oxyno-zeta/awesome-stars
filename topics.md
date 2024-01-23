@@ -2131,6 +2131,7 @@
 
 ## others 
 
+- [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [CodeZombie/TypeRip](https://github.com/CodeZombie/TypeRip) - Adobe Fonts (formerly TypeKit) font ripper
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
