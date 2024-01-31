@@ -1687,7 +1687,7 @@
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :rocket: Instant observability using eBPF :honeybee:, distributed tracing in zero code :coffee:.
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :honeybee: :rocket::zap: eBPF-Powered Observability & Zero-Touch Distributed Tracing
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
