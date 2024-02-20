@@ -543,7 +543,7 @@
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Multi-Currency | Node Js React AntD MERN
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo node.
 - [mattphillips/deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference. ❄️
 - [material-table-core/core](https://github.com/material-table-core/core) - Datatable for React based on material-ui's table with additional features. Support us at https://opencollective.com/material-table-core
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
