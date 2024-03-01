@@ -100,6 +100,7 @@
 
 ## Go 
 
+- [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [kitabisa/teler-v3](https://github.com/kitabisa/teler-v3) - Real-time HTTP Intrusion Detection
@@ -537,6 +538,7 @@
 
 ## JavaScript 
 
+- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [CodeZombie/TypeRip](https://github.com/CodeZombie/TypeRip) - Adobe Fonts (formerly TypeKit) font ripper
