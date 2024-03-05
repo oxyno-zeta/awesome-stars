@@ -1873,7 +1873,7 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [Komorebi-Fork/komorebi](https://github.com/Komorebi-Fork/komorebi) - A beautiful and customizable wallpaper manager for Linux
+- [Komorebi-Fork/komorebi](https://github.com/Komorebi-Fork/komorebi) - A beautiful and customisable wallpaper manager for Linux
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
