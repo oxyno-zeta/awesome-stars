@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [ssrathi/go-scrub](https://github.com/ssrathi/go-scrub) - A scrubbing utility to hide sensitive fields from a struct prior to logging
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
