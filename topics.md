@@ -244,7 +244,7 @@
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -739,7 +739,7 @@
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -889,7 +889,7 @@
 
 ## elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -1186,7 +1186,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1409,6 +1409,7 @@
 
 ## hacktoberfest 
 
+- [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
@@ -1552,7 +1553,7 @@
 
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -1621,7 +1622,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo node.
@@ -2474,7 +2475,7 @@
 
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
@@ -2762,7 +2763,7 @@
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -2822,7 +2823,7 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [stv0g/gose](https://github.com/stv0g/gose) - A tera-scale file uploader
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
