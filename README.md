@@ -640,7 +640,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
-- [mohsen1/yawn-yaml](https://github.com/mohsen1/yawn-yaml) - YAML parser that preserves comments and styling
 - [danielcaldas/react-d3-graph](https://github.com/danielcaldas/react-d3-graph) - Interactive and configurable graphs with react and d3 effortlessly
 - [SummitRoute/react-structured-filter](https://github.com/SummitRoute/react-structured-filter) - (unmaintained) Javascript library that provides autocompleted faceted search queries for React.
 - [jamesplease/react-composer](https://github.com/jamesplease/react-composer) - Compose render prop components
@@ -1101,6 +1100,7 @@
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
 - [cdimascio/generator-express-no-stress-typescript](https://github.com/cdimascio/generator-express-no-stress-typescript) - 🚄 A Yeoman generator for Express.js based 12-factor apps and apis using Typescript
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mohsen1/yawn-yaml](https://github.com/mohsen1/yawn-yaml) - YAML parser that preserves comments and styling
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [AEB-labs/graphql-weaver](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas
