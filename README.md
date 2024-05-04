@@ -76,6 +76,7 @@
 
 ## CSS 
 
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - General purpose (reverse) proxy and forwarding tool for networking noobs. Now written in Go!
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 
 ## Clojure 
@@ -870,6 +871,7 @@
 
 ## Rust 
 
+- [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance GraphQL Platform
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
