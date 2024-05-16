@@ -852,6 +852,7 @@
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
 - [bonclay7/aws-amicleaner](https://github.com/bonclay7/aws-amicleaner) - Cleanup your old unused ami and related snapshots
 - [flipkart-incubator/Astra](https://github.com/flipkart-incubator/Astra) - Automated Security Testing For REST API's
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
 - [sgratzl/slack-cleaner](https://github.com/sgratzl/slack-cleaner) - delete slack messages and files. An improved version is at:
@@ -1058,7 +1059,7 @@
 - [0xR/graphql-transform-federation](https://github.com/0xR/graphql-transform-federation) - Convert your existing GraphQL schema into a federated schema
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
@@ -1084,7 +1085,6 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [treshugart/react-shade](https://github.com/treshugart/react-shade) - Use the native Web Component Shadow DOM API declaratively in React.
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
