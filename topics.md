@@ -304,6 +304,7 @@
 
 ## automation 
 
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [FUSAKLA/autograf](https://github.com/FUSAKLA/autograf) - Dynamically generate Grafana dashboard based on Prometheus metrics
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
@@ -748,6 +749,7 @@
 
 ## devops 
 
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -1041,6 +1043,7 @@
 
 ## go 
 
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
@@ -1187,6 +1190,7 @@
 
 ## golang 
 
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - General purpose (reverse) proxy and forwarding tool for networking noobs. Now written in Go!
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
@@ -1444,6 +1448,7 @@
 
 ## hacktoberfest 
 
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance data access layer
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
