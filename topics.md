@@ -260,7 +260,7 @@
 ## api 
 
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
-- [microcks/microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -416,7 +416,6 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [bonclay7/aws-amicleaner](https://github.com/bonclay7/aws-amicleaner) - Cleanup your old unused ami and related snapshots
 - [oxyno-zeta/kubernetes-tagger](https://github.com/oxyno-zeta/kubernetes-tagger) - Kubernetes tags for resources like AWS EBS and AWS ELB
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
@@ -441,7 +440,6 @@
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
@@ -1354,7 +1352,7 @@
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [cyberark/secretless-broker](https://github.com/cyberark/secretless-broker) - Secure your apps by making them Secretless
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
+- [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) - An operator that manages Istio deployments on Kubernetes
@@ -1390,8 +1388,8 @@
 
 ## graphql 
 
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance data access layer
-- [microcks/microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - Build GraphQL as the speed of thought
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [gabotechs/graphqxl](https://github.com/gabotechs/graphqxl) - GraphQXL is a new language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas. This repository
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -1455,7 +1453,7 @@
 
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance data access layer
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - Build GraphQL as the speed of thought
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
@@ -1766,7 +1764,7 @@
 - [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [microcks/microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [minio/directpv](https://github.com/minio/directpv) - Simple Kubernetes CSI driver for Direct Attached Storage :minidisc:
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
@@ -1870,7 +1868,7 @@
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [databricks/click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
+- [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [oxyno-zeta/kubernetes-tagger](https://github.com/oxyno-zeta/kubernetes-tagger) - Kubernetes tags for resources like AWS EBS and AWS ELB
 - [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) - An operator that manages Istio deployments on Kubernetes
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess) - Review Access - kubectl plugin to show an access matrix for k8s server resources
@@ -2233,7 +2231,7 @@
 ## open-source 
 
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance data access layer
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - Build GraphQL as the speed of thought
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
@@ -2849,7 +2847,7 @@
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance data access layer
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - Build GraphQL as the speed of thought
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [Permify/permify](https://github.com/Permify/permify) - Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
@@ -3090,7 +3088,7 @@
 ## testing 
 
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
-- [microcks/microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
