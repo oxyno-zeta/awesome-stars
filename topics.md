@@ -1550,7 +1550,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
@@ -2405,6 +2404,7 @@
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [treshugart/react-shade](https://github.com/treshugart/react-shade) - Use the native Web Component Shadow DOM API declaratively in React.
 - [cloudfoundry/prometheus-boshrelease](https://github.com/cloudfoundry/prometheus-boshrelease) - bosh release for prometheus ecosystem
