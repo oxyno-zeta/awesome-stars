@@ -1799,7 +1799,7 @@
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing, observability via eBPF :rocket:
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing and profiling, observability via eBPF :rocket:
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
@@ -1991,7 +1991,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing, observability via eBPF :rocket:
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing and profiling, observability via eBPF :rocket:
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 
