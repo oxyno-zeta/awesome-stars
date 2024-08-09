@@ -376,7 +376,7 @@
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [openclarity/openclarity](https://github.com/openclarity/openclarity) - 
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [cni-genie/CNI-Genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
