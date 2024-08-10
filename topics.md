@@ -1036,6 +1036,7 @@
 
 ## git 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -1055,6 +1056,7 @@
 
 ## github 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [innogames/slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
@@ -1106,7 +1108,7 @@
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [philippgille/gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)
-- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortlessly database dump with one command (and zero dependencies WIP).
+- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortlessly database dump with one command.
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -1267,7 +1269,7 @@
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [philippgille/gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)
-- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortlessly database dump with one command (and zero dependencies WIP).
+- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortlessly database dump with one command.
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
