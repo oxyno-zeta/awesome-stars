@@ -2337,6 +2337,7 @@
 
 ## others 
 
+- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
 - [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types
