@@ -851,7 +851,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
@@ -1104,7 +1104,7 @@
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [ssrathi/go-scrub](https://github.com/ssrathi/go-scrub) - A scrubbing utility to hide sensitive fields from a struct prior to logging
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [keploy/keploy](https://github.com/keploy/keploy) - Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -1511,6 +1511,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
@@ -1612,6 +1613,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -2093,7 +2095,7 @@
 ## markdown 
 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
@@ -2763,7 +2765,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
@@ -3030,7 +3032,7 @@
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [stv0g/gose](https://github.com/stv0g/gose) - A tera-scale file uploader
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
@@ -3137,7 +3139,7 @@
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
