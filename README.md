@@ -542,6 +542,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 
 ## Haskell 
 
@@ -960,7 +961,6 @@
 
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 
 ## Scala 
 
