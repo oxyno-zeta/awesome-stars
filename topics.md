@@ -175,6 +175,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [spring](#spring)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -213,7 +214,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## algorithm 
@@ -228,7 +229,7 @@
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
@@ -309,7 +310,7 @@
 
 ## artificial-intelligence 
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
@@ -535,7 +536,7 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [innogames/slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
 
 ## chrome 
@@ -696,6 +697,7 @@
 
 ## cybersecurity 
 
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -858,7 +860,7 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -1058,7 +1060,7 @@
 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -1099,6 +1101,7 @@
 
 ## go 
 
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface
 - [jackc/pglogrepl](https://github.com/jackc/pglogrepl) - PostgreSQL logical replication library for Go.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -1279,7 +1282,7 @@
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gobeam/stringy](https://github.com/gobeam/stringy) - Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
@@ -1512,9 +1515,7 @@
 ## hacktoberfest 
 
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -1731,7 +1732,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1767,7 +1768,6 @@
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1847,7 +1847,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -1993,6 +1993,7 @@
 
 ## library 
 
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [philippgille/gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
@@ -2010,6 +2011,7 @@
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+- [palark/ovpn-admin](https://github.com/palark/ovpn-admin) - Simple web UI to manage OpenVPN users.
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
@@ -2125,7 +2127,6 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [philippgille/gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2223,7 +2224,7 @@
 
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2328,7 +2329,7 @@
 ## open-source 
 
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
@@ -2361,6 +2362,7 @@
 
 ## osint 
 
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
@@ -2371,6 +2373,9 @@
 
 ## others 
 
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [lukaszraczylo/traefikoidc](https://github.com/lukaszraczylo/traefikoidc) - Traefik OIDC plugin middleware
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [psyray/nmap-viewer](https://github.com/psyray/nmap-viewer) - 
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
@@ -2380,6 +2385,7 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [lisenet/docker-openvpn](https://github.com/lisenet/docker-openvpn) - OpenVPN server in a Docker container.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [malvuln/RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise ransomware pre-encryption.
@@ -2407,7 +2413,6 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
@@ -2418,7 +2423,6 @@
 - [oxyno-zeta/s3-proxy-interfaces](https://github.com/oxyno-zeta/s3-proxy-interfaces) - Interfaces for S3-Proxy
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) - TriggerMesh is the open-source AWS EventBridge alternative. It provides a unified eventing experience, a developer-friendly CLI, and runs on Docker or natively on Kubernetes.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-- [flant/ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [mattphillips/deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference. ❄️
@@ -2712,7 +2716,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -2781,9 +2785,10 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2931,8 +2936,6 @@
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [gabotechs/graphqxl](https://github.com/gabotechs/graphqxl) - GraphQXL is a new language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas. This repository
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -2970,6 +2973,7 @@
 
 ## security 
 
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -2992,6 +2996,7 @@
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
@@ -3124,6 +3129,10 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
+## spring 
+
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+
 ## spring-boot 
 
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
@@ -3214,7 +3223,6 @@
 
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -3260,7 +3268,7 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
@@ -3270,7 +3278,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
