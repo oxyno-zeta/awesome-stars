@@ -597,7 +597,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Accounting Invoicing Software | Node Js React
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 - [mattphillips/deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference. ❄️
 - [material-table-core/core](https://github.com/material-table-core/core) - Datatable for React based on material-ui's table with additional features. Support us at https://opencollective.com/material-table-core
