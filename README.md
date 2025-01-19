@@ -53,6 +53,7 @@
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 17, 16, 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgra
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -224,7 +225,6 @@
 - [Freshman-tech/file-upload](https://github.com/Freshman-tech/file-upload) - 
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -1073,7 +1073,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
-- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
