@@ -993,6 +993,7 @@
 
 ## Shell 
 
+- [riptl/docker-netem](https://github.com/riptl/docker-netem) - Easy netem delays for Docker networks
 - [lisenet/docker-openvpn](https://github.com/lisenet/docker-openvpn) - OpenVPN server in a Docker container.
 - [glemsom/shell-ctx](https://github.com/glemsom/shell-ctx) - Kubernetes context switcher for shells
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
@@ -1035,6 +1036,7 @@
 
 ## TypeScript 
 
+- [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
