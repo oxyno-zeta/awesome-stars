@@ -832,7 +832,7 @@
 ## Python 
 
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on a simple YAML-based DSL for integrations and response-as-code.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [gorilla-co/s3pypi](https://github.com/gorilla-co/s3pypi) - CLI tool for creating a Python Package Repository in an S3 bucket.
