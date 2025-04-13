@@ -587,6 +587,7 @@
 
 ## JavaScript 
 
+- [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
