@@ -558,7 +558,6 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 
 ## Haskell 
 
@@ -1048,7 +1047,8 @@
 
 ## TypeScript 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+- [NishargShah/eslint-config-airbnb-extended](https://github.com/NishargShah/eslint-config-airbnb-extended) - A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
@@ -1185,6 +1185,7 @@
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [graphql-compose/graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose) - Mongoose model converter to GraphQL types with resolvers for graphql-compose https://github.com/nodkz/graphql-compose
+- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [tdeekens/promster](https://github.com/tdeekens/promster) - ⏰A Prometheus exporter for Hapi, express, Apollo, undici and Marble.js servers to automatically measure request timings 📊
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
