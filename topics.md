@@ -227,6 +227,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## algorithm 
 
@@ -762,7 +763,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## database 
 
@@ -798,7 +799,7 @@
 - [kubedb/cli](https://github.com/kubedb/cli) - `kubectl` plugin for KubeDB
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## deep-learning 
 
@@ -870,7 +871,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [tdeekens/promster](https://github.com/tdeekens/promster) - ⏰A Prometheus exporter for Hapi, express, Apollo, undici and Marble.js servers to automatically measure request timings 📊
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 
 ## discord 
@@ -886,6 +887,7 @@
 
 ## docker 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
@@ -948,7 +950,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
@@ -1141,6 +1143,7 @@
 
 ## go 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [samber/oops](https://github.com/samber/oops) - 🔥 Error handling library with context, assertion, stack trace and source fragments
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
@@ -1295,6 +1298,7 @@
 
 ## golang 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -2028,7 +2032,7 @@
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [ContainerSolutions/helm-monitor](https://github.com/ContainerSolutions/helm-monitor) - Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -2090,7 +2094,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 
 ## llm 
@@ -2143,7 +2147,7 @@
 - [valencenet/valence-manifests](https://github.com/valencenet/valence-manifests) - Rightsize and Autoscale Containers Intelligently for Performance and Cost Management in Kubernetes: A SLO Autoscaler
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Chabane/generator-mitosis](https://github.com/Chabane/generator-mitosis) - A micro-service infrastructure generator based on Yeoman/Chatbot, Kubernetes/Docker Swarm, Traefik, Ansible, Jenkins, Spark, Hadoop, Kafka, etc.
 
 ## macos 
@@ -2192,7 +2196,7 @@
 - [stefanprodan/mgob](https://github.com/stefanprodan/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 - [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## mongoose 
 
@@ -2241,7 +2245,7 @@
 - [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format
 - [tdeekens/promster](https://github.com/tdeekens/promster) - ⏰A Prometheus exporter for Hapi, express, Apollo, undici and Marble.js servers to automatically measure request timings 📊
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 
@@ -2264,7 +2268,7 @@
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [shieldproject/shield](https://github.com/shieldproject/shield) - A standalone system that can perform backup and restore functions for a wide variety of pluggable data systems
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## natural-language-processing 
@@ -2747,7 +2751,7 @@
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [EasyMile/postgresql-operator](https://github.com/EasyMile/postgresql-operator) - PostgreSQL Operator to create Databases and Users across multiple engines
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## powershell 
@@ -2853,11 +2857,11 @@
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## react 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
@@ -3164,6 +3168,7 @@
 
 ## self-hosted 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [zer0tonin/Mikochi](https://github.com/zer0tonin/Mikochi) - A minimalist file-manager with streaming capabilities
@@ -3397,6 +3402,7 @@
 
 ## typescript 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
