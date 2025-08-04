@@ -760,7 +760,6 @@
 ## Jinja 
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Jsonnet 
@@ -896,6 +895,7 @@
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - 🎨 Kubernetes Usage Analytics Engine & Dashboards for Cost Allocation and Capacity Planning - Hourly Trends, Daily and Monthly Accounting. Actively tested against AKS, EKS, GCP, OKE, and OpenShift.
@@ -948,7 +948,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing and management platform.
 - [skraus-dev/cherryrgb-rs](https://github.com/skraus-dev/cherryrgb-rs) - Cherry RGB Keyboard - Multi platform tool to set RGB LEDs for Cherry keyboards
-- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
