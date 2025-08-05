@@ -29,6 +29,7 @@
 - [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -200,7 +201,7 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -596,6 +597,7 @@
 
 ## JavaScript 
 
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
@@ -831,6 +833,10 @@
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 
+## PLpgSQL 
+
+- [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
+
 ## Perl 
 
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
@@ -946,7 +952,7 @@
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing and management platform.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
 - [skraus-dev/cherryrgb-rs](https://github.com/skraus-dev/cherryrgb-rs) - Cherry RGB Keyboard - Multi platform tool to set RGB LEDs for Cherry keyboards
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
