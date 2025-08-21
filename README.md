@@ -43,6 +43,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## BitBake 
@@ -55,6 +56,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 17, 16, 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgra
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -103,6 +105,7 @@
 
 ## Go 
 
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [reugn/async](https://github.com/reugn/async) - Synchronization and asynchronous computation package for Go
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -359,7 +362,6 @@
 - [marwan-at-work/mod](https://github.com/marwan-at-work/mod) - Automated Semantic Import Versioning Upgrades
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [awslabs/tecli](https://github.com/awslabs/tecli) - In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such interaction and by providing easy commands th
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
@@ -400,7 +402,7 @@
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -541,7 +543,7 @@
 - [heketi/heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [ContainerSolutions/helm-monitor](https://github.com/ContainerSolutions/helm-monitor) - Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)
-- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 - [jaredfolkins/badactor](https://github.com/jaredfolkins/badactor) - BadActor.org An in-memory application driven jailer written in Go
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
@@ -855,7 +857,7 @@
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / ServiceNow SecOps alternative.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [gorilla-co/s3pypi](https://github.com/gorilla-co/s3pypi) - CLI tool for creating a Python Package Repository in an S3 bucket.
@@ -941,7 +943,6 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [pimalaya/neverest](https://github.com/pimalaya/neverest) - CLI to synchronize, backup and restore emails
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -1254,6 +1255,10 @@
 
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
