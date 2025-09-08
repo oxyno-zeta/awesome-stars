@@ -16,7 +16,6 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [Groovy](#groovy)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JSON](#json)
@@ -64,7 +63,7 @@
 
 ## C# # 
 
-- [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
 
@@ -559,10 +558,6 @@
 
 - [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
 
-## HCL 
-
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
-
 ## HTML 
 
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -1034,6 +1029,7 @@
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [Real-Time-Kodi/PiBAN](https://github.com/Real-Time-Kodi/PiBAN) - A Standalone Raspberry-Pi Based Hard Drive Eraser
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
