@@ -1077,7 +1077,7 @@
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [NishargShah/eslint-config-airbnb-extended](https://github.com/NishargShah/eslint-config-airbnb-extended) - A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet. ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
