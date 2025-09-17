@@ -162,7 +162,7 @@
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
+- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 - [minio/directpv](https://github.com/minio/directpv) - Kubernetes CSI driver for Direct Attached Storage :minidisc:
 - [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL
 - [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
@@ -586,7 +586,7 @@
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementati
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for m
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
@@ -878,7 +878,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [truenas/core-build](https://github.com/truenas/core-build) - TrueNAS CORE/Enterprise Build System
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
