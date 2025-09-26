@@ -1071,7 +1071,7 @@
 
 ## TypeScript 
 
-- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend,Sendgrid, Postmark etc.
+- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [dword-design/eslint-plugin-import-alias](https://github.com/dword-design/eslint-plugin-import-alias) - An ESLint plugin that enforces the use of import aliases. Also supports autofixing.
 - [designcombo/react-video-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion. Capcut and canva clone.
