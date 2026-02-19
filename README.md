@@ -684,7 +684,7 @@
 - [react-workspaces/react-workspaces-playground](https://github.com/react-workspaces/react-workspaces-playground) - ⚛️ 🐈  Zero Config Create-React-App Monorepos with Yarn Workspaces, Lerna and React Storybook.
 - [0wczar/airframe-react](https://github.com/0wczar/airframe-react) - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: https://airframe-react-lime.vercel.app
 - [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) - Simple Kubernetes real-time dashboard and management.
-- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace, revealing hidden overhead. (Formerly Kube-Opex-Analytics).
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace. Reveals hidden overhead. (Formerly Kube-Opex-Analytics).
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -817,7 +817,7 @@
 - [malvuln/RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise ransomware pre-encryption.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
