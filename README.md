@@ -1061,7 +1061,7 @@
 - [glemsom/shell-ctx](https://github.com/glemsom/shell-ctx) - Kubernetes context switcher for shells
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
-- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master, multi-node Kubernetes homelab using kubeadm, Ansible, Helm and Terraform.
+- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a Kubernetes homelab using kubeadm, Ansible, Helm and Terraform.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [Real-Time-Kodi/PiBAN](https://github.com/Real-Time-Kodi/PiBAN) - A Standalone Raspberry-Pi Based Hard Drive Eraser
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -1118,7 +1118,7 @@
 - [designcombo/react-video-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion. Capcut and canva clone.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [eslint-config/airbnb-extended](https://github.com/eslint-config/airbnb-extended) - A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
