@@ -880,6 +880,7 @@
 
 ## Python 
 
+- [mainza-ai/milimovideo](https://github.com/mainza-ai/milimovideo) - The AI-Native Cinematic Studio. A professional Non-Linear Editor (NLE) for filmmakers.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
