@@ -5,11 +5,11 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
 - [Dart](#dart)
@@ -47,6 +47,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Astro 
+
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## BitBake 
 
@@ -87,10 +91,6 @@
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
-## CSS 
-
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-
 ## Clojure 
 
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes
 - [aloks98/isoman](https://github.com/aloks98/isoman) - 
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) - Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
@@ -887,7 +888,7 @@
 
 ## Python 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [mainza-ai/milimovideo](https://github.com/mainza-ai/milimovideo) - The AI-Native Cinematic Studio. A professional Non-Linear Editor (NLE) for filmmakers.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
@@ -1004,7 +1005,7 @@
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 - [skraus-dev/cherryrgb-rs](https://github.com/skraus-dev/cherryrgb-rs) - Cherry RGB Keyboard - Multi platform tool to set RGB LEDs for Cherry keyboards
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -1035,7 +1036,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
