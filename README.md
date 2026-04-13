@@ -124,7 +124,7 @@
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes
 - [aloks98/isoman](https://github.com/aloks98/isoman) - 
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) - Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
+- [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [lejianwen/rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
