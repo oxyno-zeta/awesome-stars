@@ -891,6 +891,7 @@
 
 ## Python 
 
+- [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [mainza-ai/milimovideo](https://github.com/mainza-ai/milimovideo) - The AI-Native Cinematic Studio. A professional Non-Linear Editor (NLE) for filmmakers.
