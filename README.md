@@ -636,7 +636,7 @@
 
 ## JavaScript 
 
-- [decolua/9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models
+- [decolua/9router](https://github.com/decolua/9router) - 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
@@ -863,13 +863,13 @@
 - [toddm92/aws](https://github.com/toddm92/aws) - All things AWS repo
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [octo-technology/kubernetes-icons](https://github.com/octo-technology/kubernetes-icons) - [obsolete] Set of icons for Kubernetes diagrams, has been merged into official k8s repo!!
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 
 ## PHP 
 
@@ -1122,6 +1122,7 @@
 
 ## TypeScript 
 
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
