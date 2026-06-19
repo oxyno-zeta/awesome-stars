@@ -191,6 +191,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -2789,6 +2790,7 @@
 
 ## others 
 
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas
@@ -3368,6 +3370,11 @@
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [oxyno-zeta/react-editable-json-tree](https://github.com/oxyno-zeta/react-editable-json-tree) - React Editable Json Tree
+
+## redteam 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 
 ## redux 
 
