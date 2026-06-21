@@ -2035,6 +2035,7 @@
 ## javascript 
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
@@ -2125,7 +2126,6 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
