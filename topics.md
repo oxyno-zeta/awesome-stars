@@ -2804,7 +2804,6 @@
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [lejianwen/rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
-- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
@@ -2992,7 +2991,7 @@
 - [neuvector/kubernetes-cis-benchmark](https://github.com/neuvector/kubernetes-cis-benchmark) - A set of scripts inspired by CIS Kubernetes Benchmark that checks best-practices of Kubernetes installations
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
-- [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
+- [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js, with SVG and Canvas rendering support
 - [mohsen1/yawn-yaml](https://github.com/mohsen1/yawn-yaml) - YAML parser that preserves comments and styling
 - [SummitRoute/react-structured-filter](https://github.com/SummitRoute/react-structured-filter) - (unmaintained) Javascript library that provides autocompleted faceted search queries for React.
 - [drcmda/react-contextual](https://github.com/drcmda/react-contextual) - 🚀 react-contextual is a small (less than 1KB) helper around React 16s new context api
@@ -3591,6 +3590,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
