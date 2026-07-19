@@ -879,7 +879,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 
 ## PLpgSQL 
 
@@ -964,6 +964,7 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - System of Record for Kubernetes cost accounting: per-namespace CPU, memory and GPU usage, with the 30% non-allocatable overhead made visible. Connects to AI assistants via MCP (Claude, Gemini, Mistral
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
 - [bonclay7/aws-amicleaner](https://github.com/bonclay7/aws-amicleaner) - Cleanup your old unused ami and related snapshots
@@ -1131,7 +1132,7 @@
 
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -1182,7 +1183,7 @@
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -1273,7 +1274,6 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
