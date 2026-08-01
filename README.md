@@ -726,7 +726,6 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [pa-bru/graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [flexdinesh/react-redux-boilerplate](https://github.com/flexdinesh/react-redux-boilerplate) - A minimal React-Redux boilerplate with all the best practices
 - [aackerman/circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin) - Detect circular dependencies in modules compiled with Webpack
 - [jochen-schweizer/express-prom-bundle](https://github.com/jochen-schweizer/express-prom-bundle) - express middleware with standard prometheus metrics in one bundle
@@ -812,7 +811,6 @@
 
 ## MDX 
 
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Makefile 
@@ -979,6 +977,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 
 ## Roff 
 
@@ -1204,6 +1203,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
