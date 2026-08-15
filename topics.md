@@ -277,7 +277,6 @@
 ## agents 
 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
@@ -336,7 +335,7 @@
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
@@ -692,6 +691,7 @@
 
 ## cli 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [Madh93/prxy](https://github.com/Madh93/prxy) - 🔌 Command-line reverse proxy for forwarding HTTP requests through an outbound proxy
@@ -1046,6 +1046,7 @@
 
 ## devops 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [BananaOps/tracker](https://github.com/BananaOps/tracker) - An opensource solution to track events in platform
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
@@ -1104,7 +1105,7 @@
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
@@ -1121,6 +1122,7 @@
 
 ## docker 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
@@ -1396,6 +1398,7 @@
 
 ## go 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [BananaOps/tracker](https://github.com/BananaOps/tracker) - An opensource solution to track events in platform
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -1487,7 +1490,7 @@
 - [target/pod-reaper](https://github.com/target/pod-reaper) - Rule based pod killing kubernetes controller
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
@@ -1558,6 +1561,7 @@
 
 ## golang 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) - Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
@@ -1681,7 +1685,7 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
@@ -1824,7 +1828,7 @@
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [oxyno-zeta/s3-proxy-interfaces](https://github.com/oxyno-zeta/s3-proxy-interfaces) - Interfaces for S3-Proxy
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
@@ -2013,7 +2017,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
@@ -2186,6 +2190,7 @@
 
 ## kubernetes 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -2249,7 +2254,7 @@
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [target/pod-reaper](https://github.com/target/pod-reaper) - Rule based pod killing kubernetes controller
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [zalando-incubator/zelt](https://github.com/zalando-incubator/zelt) - A command-line tool for orchestrating the deployment of Locust in Kubernetes.
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
@@ -2362,12 +2367,13 @@
 
 ## linux 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [skraus-dev/cherryrgb-rs](https://github.com/skraus-dev/cherryrgb-rs) - Cherry RGB Keyboard - Multi platform tool to set RGB LEDs for Cherry keyboards
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -2462,9 +2468,10 @@
 
 ## macos 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2530,7 +2537,7 @@
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
-- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
@@ -2566,6 +2573,7 @@
 
 ## monitoring 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [BananaOps/tracker](https://github.com/BananaOps/tracker) - An opensource solution to track events in platform
 - [charlie-haley/omada_exporter](https://github.com/charlie-haley/omada_exporter) - Prometheus Exporter for TP-Link Omada Controller SDN.
@@ -2822,6 +2830,7 @@
 
 ## others 
 
+- [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
 - [chrxmvtik/gitlab-mr-conform](https://github.com/chrxmvtik/gitlab-mr-conform) - Automated tool that enforces compliance rules on GitLab merge requests. Validates merge request title, description, commit messages, jira issues, branch rules, squash rules, approvals, and more—ensuri
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -3017,7 +3026,7 @@
 - [mqttjs/async-mqtt](https://github.com/mqttjs/async-mqtt) - Promise wrapper over MQTT.js
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [taion/graphql-type-json](https://github.com/taion/graphql-type-json) - JSON scalar type for GraphQL.js
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [jpweber/prometheus-alert-rules](https://github.com/jpweber/prometheus-alert-rules) - Collection of Prometheus Alert Rules
 - [toddm92/aws](https://github.com/toddm92/aws) - All things AWS repo
 - [jochen-schweizer/express-prom-bundle](https://github.com/jochen-schweizer/express-prom-bundle) - express middleware with standard prometheus metrics in one bundle
@@ -3468,7 +3477,7 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [pimalaya/neverest](https://github.com/pimalaya/neverest) - CLI to synchronize emails, written in Rust
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [jubako/arx](https://github.com/jubako/arx) - Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
@@ -3528,7 +3537,7 @@
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
@@ -3776,7 +3785,7 @@
 ## statistics 
 
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) - Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 
 ## storybook 
 
@@ -3821,6 +3830,7 @@
 
 ## terminal 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -3886,6 +3896,7 @@
 
 ## tui 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -4111,13 +4122,14 @@
 
 ## windows 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [skraus-dev/cherryrgb-rs](https://github.com/skraus-dev/cherryrgb-rs) - Cherry RGB Keyboard - Multi platform tool to set RGB LEDs for Cherry keyboards
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
