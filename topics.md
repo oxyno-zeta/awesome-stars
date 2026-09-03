@@ -1212,7 +1212,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [octo-technology/kubernetes-icons](https://github.com/octo-technology/kubernetes-icons) - [obsolete] Set of icons for Kubernetes diagrams, has been merged into official k8s repo!!
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 
@@ -1368,7 +1368,7 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
@@ -2499,7 +2499,7 @@
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## material-design 
 
@@ -2740,7 +2740,7 @@
 - [pa-bru/graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [dynamoose/dynamoose](https://github.com/dynamoose/dynamoose) - Dynamoose is a modeling tool for Amazon's DynamoDB
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
@@ -2797,7 +2797,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## openai 
 
