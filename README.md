@@ -465,7 +465,7 @@
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [helm/chartmuseum](https://github.com/helm/chartmuseum) - helm chart repository server
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [openSUSE/helm-mirror](https://github.com/openSUSE/helm-mirror) - Helm plugin used to mirror repositories
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
@@ -802,7 +802,7 @@
 
 ## Jsonnet 
 
-- [kubernetes-purgatory/kubernetes-mixin](https://github.com/kubernetes-purgatory/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 ## Lua 
 
@@ -864,7 +864,7 @@
 - [toddm92/aws](https://github.com/toddm92/aws) - All things AWS repo
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [octo-technology/kubernetes-icons](https://github.com/octo-technology/kubernetes-icons) - [obsolete] Set of icons for Kubernetes diagrams, has been merged into official k8s repo!!
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -953,7 +953,7 @@
 - [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval) - Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-- [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - Open S3 Bucket Scanner
+- [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - Credentialless discovery and monitoring of exposed S3-compatible cloud storage from domains, DNS and web crawling.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -1131,6 +1131,7 @@
 
 ## TypeScript 
 
+- [open-noodle/gallery](https://github.com/open-noodle/gallery) - High performance self-hosted photo and video management solution.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [textbee/textbee](https://github.com/textbee/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -1214,7 +1215,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
