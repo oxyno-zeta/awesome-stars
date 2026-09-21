@@ -275,7 +275,7 @@
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [emperror/errors](https://github.com/emperror/errors) - Drop-in replacement for the standard library errors package and github.com/pkg/errors
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [godbus/dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus
 - [hoto/jenkins-credentials-decryptor](https://github.com/hoto/jenkins-credentials-decryptor) - Command line tool for dumping Jenkins credentials.
 - [prosimcorp/reforma](https://github.com/prosimcorp/reforma) - Kubernetes operator to patch resources with information from other resources
